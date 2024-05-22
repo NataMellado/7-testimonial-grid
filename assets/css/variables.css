@@ -1,0 +1,32 @@
+:root {
+    /* Colors */
+    --clr-bg: #ECF2F8;
+    --clr-gray: #48556A;
+    --clr-white: #fff;
+    --clr-violet: #733FC8;
+    --clr-light-violet: #A775F1;
+    --clr-dark: #19202D;
+    --clr-light: #CFCFCF;
+
+    /* Border radius */
+    --br: 8px;
+
+    /* Profile picture */
+    --pr-pic: 28px;
+
+    /* Font sizes */
+    --fs-xxs: 11px;
+    --fs-xs: 13px;
+    --fs-md: 20px;
+
+    /* Font Family */
+    --ff: 'Barlow Semi Condensed', sans-serif;
+
+    /* Font weight */
+    --fw-medium: 500;
+    --fw-semi-bold: 600;
+
+    /* Line height */
+    --lh: 1.5;
+
+}
