@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Frontend Mentor Solution URL: []()
-- Live Site URL: []()
+- Frontend Mentor Solution URL: [https://www.frontendmentor.io/solutions/responsive-testimonial-grid-1FUsZbFRY_](https://www.frontendmentor.io/solutions/responsive-testimonial-grid-1FUsZbFRY_)
+- Live Site URL: [https://natamellado.github.io/7-testimonial-grid/](https://natamellado.github.io/7-testimonial-grid/)
 
 ## My process
 
